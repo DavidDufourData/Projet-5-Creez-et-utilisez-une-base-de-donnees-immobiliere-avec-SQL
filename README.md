@@ -6,7 +6,7 @@ Laplace Immo est un réseau national d’agences immobilières. Le directeur gé
 
 Ce projet stratégique est appelé en interne le projet "DATAImmo". La CTO de l’entreprise, Clara Daucourt, a la responsabilité de conduire le projet.  
 
-À partir de données fournies par une agence immobilière, l’objectif est de concevoir, modéliser, créer et exploiter une base SQL en conformité avec le RGPD.
+À partir de données fournies par une agence immobilière, l’objectif est de concevoir, modéliser, créer et exploiter une base SQL en conformité avec le RGPD. Cette base sera ensuite utilisée pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.  
 
 ## Soft Skills
 - Structurer un projet complet (conception → implémentation → exploitation)  
